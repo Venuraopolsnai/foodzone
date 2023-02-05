@@ -1,0 +1,49 @@
+html {
+    scroll-behavior: smooth;
+}
+
+nav {
+    background-color: black;
+    margin: 0px;
+}
+
+.nav-option {
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+
+.nav-option:hover {
+    color: rgb(167, 213, 51);
+}
+
+.nav-option:active {
+    color: rgb(95, 27, 204);
+}
+
+main {
+    background-color: rgba(112, 142, 182, 0.537);
+}
+
+.dish {
+    text-decoration: none;
+    color: black;
+
+}
+
+div {
+    text-align: center;
+}
+
+.food-image {
+    width: 500px;
+    height: 400px;
+    margin-top: 20px;
+}
+
+div p {
+    margin: 0px;
+
+}
